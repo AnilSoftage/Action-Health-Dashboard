@@ -1,0 +1,1 @@
+Welcome to our GitHub Actions Health Dashboard! Gain real-time insights into the status of your workflows. Track successes and failures, review recent activity, and ensure seamless development. Stay informed, streamline collaboration, and optimize your GitHub Actions with our comprehensive monitoring solution.
